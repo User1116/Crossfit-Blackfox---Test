@@ -1103,8 +1103,7 @@ hr.separator{
 
 
 .container-pricing {margin-top:20px;
-  background-color: #e4e6e9;
-  color: #41464d;
+  background-image: url(/img/blackfox_img/blackfox_dischi.jpg);
 }
 
 .btn:not(:disabled):not(.disabled) {
